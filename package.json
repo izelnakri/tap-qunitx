@@ -1,0 +1,11 @@
+{
+  "name": "tap-qunitx",
+  "version": "0.0.1",
+  "description": "Tap reporter for qunitx ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izel Nakri",
+  "license": "ISC"
+}
